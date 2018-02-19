@@ -1,0 +1,8 @@
+{
+  "name": "notedefraisfrontend",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
